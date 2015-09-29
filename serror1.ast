@@ -1,0 +1,10 @@
+Start
+	Program
+		AssignStatement
+			ID,valx
+			FloatExpression
+				FLOAT_LITERAL,12
+		AssignStatement
+			ID,valx
+			FloatExpression
+				FLOAT_LITERAL,13
